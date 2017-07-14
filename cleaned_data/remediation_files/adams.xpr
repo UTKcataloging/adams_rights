@@ -5,6 +5,7 @@
         <options/>
     </meta>
     <projectTree name="adams.xpr">
-        <folder path="../"/>
+        <folder path="../modsxml/"/>
+        <folder path="."/>
     </projectTree>
 </project>
